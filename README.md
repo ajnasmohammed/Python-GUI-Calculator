@@ -1,6 +1,7 @@
 # Python-GUI-Calculator
 This project is a simple GUI Calculator built using Python and Tkinter. The calculator allows users to perform basic arithmetic operations.
 # Tkinter Calculator
+https://github.com/ajnasmohammed/Python-GUI-Calculator/blob/main/Calculator.png
 
 Simple calculator GUI built with Python and Tkinter.
 
